@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.animal {
+    flex-basis: 10%;
+    margin: auto;
+  }
+img {
+    width: 100px;
+}

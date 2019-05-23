@@ -2,11 +2,14 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
 }
 .animal {
-    flex-basis: 10%;
+    flex: 1 0 20%;
     margin: auto;
+    
   }
 img {
     width: 100px;
+    border: 5px solid blue;
 }
